@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <conio.h>
-
 //Function Prototype place//
 int mainmenu();																/*Fungsi Prototipe ADMIN*/
 int menu_admin();
